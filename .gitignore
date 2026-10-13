@@ -1,0 +1,21 @@
+# Staj defteri fotoğrafları (kişisel içerik, repoya dahil edilmez)
+uygulamanın staj defterien nasıl yazıldığı/
+
+# .NET
+backend/bin/
+backend/obj/
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Editor / OS
+.vs/
+.vscode/
+*.user
+.DS_Store
+Thumbs.db
